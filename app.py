@@ -78,7 +78,7 @@ if "auth" not in st.session_state:
     st.stop()
 
 factory = DataFactory()
-st.title("🛡️ Scale AI Production Factory")
+st.title("Enterprise AI Factory")
 st.caption("Advanced Data Ingestion & Transformation Pipeline")
 
 tab1, tab2, tab3 = st.tabs(["🚀 Ingestion", "🧑‍💻 Human Bench", "📀 Gold Warehouse"])
