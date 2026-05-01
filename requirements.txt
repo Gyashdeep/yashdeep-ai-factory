@@ -1,0 +1,7 @@
+streamlit
+pandas
+groq
+sqlalchemy
+pdfplumber
+openpyxl
+pydantic
